@@ -6,6 +6,11 @@ let randomDiceImageOne = "img/dice" + +randomNumber1 + ".jpg";
 
 let randomDiceImageTwo = "img/dice" + randomNumber2 + ".jpg";
 
+let button = document.getElementById("reloadBtn");
+button.addEventListener("click", function () {
+  window.location.reload();
+});
+
 let image1 = document
   .querySelectorAll("img")[0]
   .setAttribute("src", randomDiceImageOne);

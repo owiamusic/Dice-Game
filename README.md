@@ -5,7 +5,7 @@ You can play the game by reloading your browser to check which players has highe
 
 ## 🚀 Live Demo
 
----
+## https://dice-game-ruby-two-66.vercel.app/
 
 ## 🛠️ Tech Stack
 
